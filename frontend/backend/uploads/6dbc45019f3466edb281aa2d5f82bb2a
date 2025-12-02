@@ -1,0 +1,31 @@
+{
+  "course": "Mathematics",
+  "examType": "Mid Exam",
+  "year": 2017,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Sample question from 2017 Mid Exam for mathematics?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": 0,
+      "explanation": "This is a sample explanation for the question."
+    },
+    {
+      "id": 2,
+      "question": "Another sample question for 2017 Mid Exam?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": 1,
+      "explanation": "This is another sample explanation."
+    }
+  ]
+}
